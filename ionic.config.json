@@ -1,5 +1,6 @@
 {
   "name": "tabsapp",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "30f765b7",
+  "type": "ionic-angular",
+  "integrations": {}
 }
